@@ -1,0 +1,6 @@
+{
+    "ERR_ERROR": "Error indifinicdo",
+    "ERR_TYPE": "Error de tipo de datos",
+    "ERR_RANGE": "Índice fuera de rango",
+    "ERR_HTTP": "Código de respuesta http %statusCode%"
+}
